@@ -84,14 +84,4 @@ npm run dev
 
 ----
 
-## Screenshots
 
-![Home Page](./demo-images/1.png "Home Page")
-
-![Sign Up Page](./demo-images/4.png "Sign Up Page")
-
-![Books Page](./demo-images/5.png "Books Image") 
-
-![Book Upload](./demo-images/7.png "Book Upload")
-
-![Map](./demo-images/10.png "Map showing user")
